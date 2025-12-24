@@ -1,9 +1,10 @@
 This repository contains all the assignments, practice tasks, and mini-projects completed during the GeeksforGeeks MERN Stack Training Program.
 
 ##  Live Demo
-1.HTML BASICS ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
-2.HTML FORMS ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
-3.CSS STYLING ASSIGNMENT ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
+
+- 1.HTML BASICS ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
+- 2.HTML FORMS ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
+- 3.CSS STYLING ASSIGNMENT ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
 
 ##
 📌 Learning Goals
