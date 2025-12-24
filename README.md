@@ -2,9 +2,9 @@ This repository contains all the assignments, practice tasks, and mini-projects 
 
 ##  Live Demo
 
-- 1.HTML BASICS ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
-- 2.HTML FORMS ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
-- 3.CSS STYLING ASSIGNMENT ASSIGMENT : [Live ](https://rajit8674.github.io/Re)
+- 1.HTML BASICS ASSIGMENT : [Live ](https://rajit8674.github.io/gfg-Assignments/HTML-Basics-Assignment/)
+- 2.HTML FORMS ASSIGMENT : [Live ](https://rajit8674.github.io/gfg-Assignments/HTML-Forms-Assignment/)
+- 3.CSS STYLING ASSIGNMENT ASSIGMENT : [Live ](https://rajit8674.github.io/gfg-Assignments/CSS-Styling-Assignment/)
 
 ##
 📌 Learning Goals
