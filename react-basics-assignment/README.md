@@ -3,6 +3,8 @@
 ## Description
 This is a simple React application built to understand the basics of React including **components**, **props**, and **state**.
 
+[Live](https://rajit8674.github.io/gfg-Assignments/react-basics-assignment/dist/)
+
 ## Features
 - Reusable React components
 - Props used to pass product data
