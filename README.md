@@ -12,6 +12,10 @@ This repository contains all the assignments, practice tasks, and mini-projects 
 - 8.REACT-BASICS-ASSIGNMENT:[Live](https://rajit8674.github.io/gfg-Assignments/react-basics-assignment/dist/)
   
 
+
+
+# ClassRoomAssignment:[Live](https://rajit8674.github.io/gfg-Assignments/ClassRoomAssignment/)
+
 ##
 📌 Learning Goals
 ✔ Strengthen MERN Stack skills
