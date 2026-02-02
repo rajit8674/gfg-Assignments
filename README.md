@@ -5,9 +5,10 @@ This repository contains all the assignments, practice tasks, and mini-projects 
 - 1.HTML BASICS ASSIGMENT : [Live ](https://rajit8674.github.io/gfg-Assignments/HTML-Basics-Assignment/)
 - 2.HTML FORMS ASSIGMENT : [Live ](https://rajit8674.github.io/gfg-Assignments/HTML-Forms-Assignment/)
 - 3.CSS STYLING ASSIGNMENT ASSIGMENT : [Live ](https://rajit8674.github.io/gfg-Assignments/CSS-Styling-Assignment/)
-- 4.CSS-Layout-Assignment :[Live ](https://rajit8674.github.io/gfg-Assignments/CSS-Layout-Assignment/)
-- 5.JS-Basics-Assignment:[Live ](https://rajit8674.github.io/gfg-Assignments/JavaScript-Basics-Assignment/)
-- 6.JS-function-array-assignment:[Live ](https://rajit8674.github.io/gfg-Assignments/javascript-function-array-assignment/)
+- 4.CSS-LAYOUT-ASSIGNMENT :[Live ](https://rajit8674.github.io/gfg-Assignments/CSS-Layout-Assignment/)
+- 5.JS-BASICS-ASSIGNMENT:[Live ](https://rajit8674.github.io/gfg-Assignments/JavaScript-Basics-Assignment/)
+- 6.JS-fUNCTION-ARRAY-ASSIGNMENT:[Live ](https://rajit8674.github.io/gfg-Assignments/javascript-function-array-assignment/)
+- 7.JS-DOM-MANIPULATION-ASSIGNMENT:[Live](https://rajit8674.github.io/gfg-Assignments/JS-DOM-Manipulation-Assignment/)
   
 
 ##
