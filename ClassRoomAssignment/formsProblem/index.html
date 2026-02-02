@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Registration Form</h1>
+    <fieldset>
+      <fieldset>
+        <legend>Personal Information</legend>
+        <label for="Fname">FullName:</label>
+        <input
+          type="text"
+          name="fname"
+          id=""
+          placeholder="enter your full name"
+        />
+        <br />
+        <label for="parentname">Parent Name:</label>
+        <input
+          type="text"
+          name="parentname"
+          id=""
+          placeholder="enter your parent name"
+        />
+      </fieldset>
+      <fieldset>
+        <legend>Contact Details</legend>
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="" placeholder="enter your email" />
+        <br />
+        <label for="Mobile">Mobile No:</label>
+        <input
+          type="text"
+          name="mobile"
+          placeholder="enter your valid mobile number"
+        />
+      </fieldset>
+      <fieldset>
+        <legend>Addtional Info</legend>
+        <label for="Food">Food Choice</label>
+        <select name="food" id="">
+          <option value="veg">Veg</option>
+          <option value="nonveg">Non veg</option>
+          <option value="vegan">Vegan</option>
+        </select>
+      </fieldset>
+      <fieldset>
+        <legend>Gender</legend>
+        <input type="radio" name="gender" id="male" value="male" /> <label for="male">Male</label>
+        <input type="radio" name="gender" id="female" value="female" /> <label for="female">Female</label>
+        <input type="radio" name="gender" id="other" value="other" /> <label for="other">Other</label>  
+      </fieldset>
+      <fieldset>
+        <legend>Hobbies</legend>
+        <input type="checkbox" name="hobby1" id="hobby1" value="reading" /> <label for="hobby1">Reading</label>
+        <input type="checkbox" name="hobby2" id="hobby2" value="traveling" /> <label for="hobby2">Traveling</label>
+        <input type="checkbox" name="hobby3" id="hobby3" value="sports" /> <label for="hobby3">Sports</label>
+      </fieldset>
+      <fieldset>
+        <legend>Address</legend>
+        <textarea name="address" id="" cols="30" rows="5" placeholder="enter your address"></textarea>
+      </fieldset>
+      <fieldset>
+        <legend>Country</legend>
+        <select name="country" id="">
+          <option value="usa">USA</option>
+          <option value="canada">Canada</option>
+          <option value="uk">UK</option>
+          <option value="australia">Australia</option>
+        </select>
+      </fieldset>
+      <fieldset>
+        <legend>Comments</legend>
+        <textarea name="comments" id="" cols="30" rows="5" placeholder="enter your comments"></textarea>
+      </fieldset>
+      <fieldset>
+        <legend>Subscribe to Newsletter</legend>
+        <input type="checkbox" name="subscribe" id="subscribe" value="yes" /> <label for="subscribe">Yes, I want to subscribe</label>
+      </fieldset>
+      <fieldset>
+        <legend>Preferred Contact Method</legend>
+        <input type="radio" name="contact" id="emailContact" value="email" /> <label for="emailContact">Email</label>
+        <input type="radio" name="contact" id="phoneContact" value="phone" /> <label for="phoneContact">Phone</label>
+      </fieldset>
+      <fieldset>
+        <legend>Birth Date</legend>
+        <input type="date" name="birthdate" id="" />
+      </fieldset>
+       <fieldset>
+        <legend>Time of Appointment</legend>
+        <input type="time" name="appointmentTime" id="" />
+       </fieldset>
+       <fieldset>
+        <legend>Upload Profile Picture</legend>
+        <input type="file" name="profilePicture" id="" />
+       </fieldset>
+
+       <fieldset>
+        <legend>Website</legend>
+        <input type="url" name="website" id="" placeholder="enter your website URL" />
+       </fieldset>
+       <fieldset>
+        <legend>Age</legend>
+        <input type="number" name="age" id="" placeholder="enter your age" />
+       </fieldset>
+      <br />
+      <input type="submit" value="Submit" />
+    </fieldset>
+  </body>
+</html>
